@@ -7,6 +7,7 @@ This repository contains the frontend for the Library Management System. It is a
 - **CRUD Operations:**
   - Create and update book records through a form.
   - View all books in a table with options to edit or delete.
+  - User Registration and the login
 - **Navigation:**
   - React Router for seamless page transitions.
 - **State Management:**
