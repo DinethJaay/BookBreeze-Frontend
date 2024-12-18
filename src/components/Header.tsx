@@ -8,7 +8,10 @@ const Header: React.FC = () => {
   };
   return (
     <div className="text-center bg-gray-100 py-20">
-      <h1 className="text-5xl font-bold mb-4">Welcome to the Library</h1>
+      <h1 className="text-5xl font-bold mb-4">
+        <span className="text-blue-950">WELCOME TO THE</span>
+        <span className="text-blue-500"> BOOK BREEZE</span>
+      </h1>
       <p className="text-xl text-gray-600">
         Manage, Search, and Borrow Books with Ease.
       </p>
