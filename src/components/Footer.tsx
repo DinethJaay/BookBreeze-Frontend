@@ -18,7 +18,6 @@ const Footer: React.FC = () => {
           <i className="fab fa-linkedin-in text-lg"></i>
         </a>
       </div>
-      {/* Copyright */}
       <div className="text-center text-sm text-gray-400 mt-2">
         &copy; {new Date().getFullYear()} BookBreeze. All rights reserved.
       </div>
