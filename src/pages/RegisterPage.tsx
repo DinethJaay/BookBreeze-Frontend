@@ -2,7 +2,7 @@
 import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import { toast } from "react-toastify";
-import RegisterImage from "../assets/images/RegisterPic.jpg";
+import RegisterImage from "../assets/images/lms.png";
 import { useAuth } from "../hooks/useAuths.ts";
 import Footer from "../components/Footer.tsx";
 import Navbar from "../components/Navbar.tsx";

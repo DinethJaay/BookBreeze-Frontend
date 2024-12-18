@@ -78,14 +78,7 @@ const BooksPage: React.FC = () => {
           </button>
         </div>
 
-        <div className="flex items-center">
-          <button
-            onClick={() => alert("Log")}
-            className="flex items-center text-red-500 font-semibold hover:text-red-700"
-          >
-            <HiLogout className="mr-2" /> Logout
-          </button>
-        </div>
+        <div className="flex items-center"></div>
         <div className="flex items-center">
           <button
             onClick={handleLogout}

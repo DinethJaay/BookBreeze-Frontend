@@ -1,7 +1,7 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
 import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
-import LoginImage from "../assets/images/login.png";
+import LoginImage from "../assets/images/lms3.jpg";
 import { useAuth } from "../hooks/useAuths.ts";
 import { toast } from "react-toastify";
 import Navbar from "../components/Navbar.tsx";
